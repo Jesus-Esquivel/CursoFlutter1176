@@ -1,0 +1,5 @@
+package com.esquivelcurso
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
