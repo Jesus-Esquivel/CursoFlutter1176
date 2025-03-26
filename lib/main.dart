@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:esquivelcurso/Mi_widgets/dialogo_acerca_de.dart';
+import 'package:esquivelcurso/Mi_widgets/list_tile.dart';
 
 const Color darkblue = Color(0xff04355e);
 void main() => runApp(MiTarjeta());
@@ -19,7 +19,7 @@ class MiTarjeta extends StatelessWidget {
           title: const Text("Flutter Esquivel"),
           centerTitle: true,
         ),
-        body: const DialogoAcercaDe(),
+        body: const Titulo_lista(),
       ),
     );
   }
