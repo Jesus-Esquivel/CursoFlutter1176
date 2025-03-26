@@ -9,4 +9,4 @@
 ## Ejemplo de List Tile
 
 ![lista Tile](Lista Titulo.jpg)
-![La alerta](dialogor.jpg)
+![La alerta](lista titulor.jpg)
